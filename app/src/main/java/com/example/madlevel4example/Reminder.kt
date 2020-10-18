@@ -1,3 +1,5 @@
+package com.example.madlevel4example
+
 import androidx.room.ColumnInfo
 import androidx.room.Entity
 import androidx.room.PrimaryKey
